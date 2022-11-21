@@ -1,1 +1,1 @@
-# FamnitCTF-CloneRepoChallange
+flag{l2MPVI8YsPujtuv7C2vv3xG6PvOzNIPd}
